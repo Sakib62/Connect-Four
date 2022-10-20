@@ -17,7 +17,7 @@ Connect-Four is a tic-tac-toe-like two-player game in which players alternately 
 
 <br>
 <p align="center">
-<img src="resources/Connect4.png" alt="Connect 4" width="40%" height="40%">
+<img src="assets/Connect4.png" alt="Connect 4" width="40%" height="40%">
 </p>
 <br>
 
@@ -36,12 +36,12 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 ❖ It has two mode.<br>
     
 1. <b>Multi Player Mode:</b> <i>It would facilitate 2 human players to play the game.</i><br><br>
-<img src="resources/Double1.jpeg" width="300" height="300">
-<img src="resources/Double2.jpeg" width="300" height="300">
+<img src="assets/Double1.jpeg" width="300" height="300" alt="Multi Player Demo1">
+<img src="assets/Double2.jpeg" width="300" height="300" alt="Multi Player Demo2">
 
 2. <b>Single Player Mode:</b> <i>One player would play against an AI bot built using the minimax algorithm.</i><br><br>
-<img src="resources/Single1.jpeg" width="300" height="300">
-<img src="resources/Single2.jpeg" width="300" height="300">
+<img src="assets/Single1.jpeg" width="300" height="300" alt="Single Player Demo1">
+<img src="assets/Single2.jpeg" width="300" height="300" alt="Single Player Demo2">
 <br><br>
 
 ❖ Possible enhancements would include a proper GUI to the game with appropriate animations, using the graphics.h header-file.
@@ -80,7 +80,7 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 
 <br>
 <p align="center">
-<img src="resources/teammate.jpg" alt="Team X" width="70%" height="50%">
+<img src="assets/teammate.jpg" alt="Team X" width="70%" height="50%">
 </p>
 
 <h3 align="center"><b>Team X</b></h3>
