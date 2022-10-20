@@ -51,7 +51,7 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 
 <h2><b>Team X:</b></h2>
 <table align="center" width="600" border="2">
-<caption>Team Member</caption>
+<caption align="center">Team Member</caption>
 <tr>
     <td>Name</td>
     <td>Registration No.</td>
@@ -80,7 +80,7 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 
 <br>
 <p align="center">
-<img src="assets/teammate.jpg" alt="Team X" width="70%" height="50%">
+<img src="assets/Teammate.jpg" alt="Team X" width="70%" height="50%">
 </p>
 
 <h3 align="center"><b>Team X</b></h3>
