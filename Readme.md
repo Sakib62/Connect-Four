@@ -17,7 +17,7 @@ Connect-Four is a tic-tac-toe-like two-player game in which players alternately 
 
 <br>
 <p align="center">
-<img src="assets/Connect4.png" alt="Connect 4" width="40%" height="40%">
+<img src="assets/Connect4.png" alt="Connect 4" width="70%" height="50%">
 </p>
 <br>
 
@@ -36,12 +36,12 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 ❖ It has two mode.<br>
     
 1. <b>Multi Player Mode:</b> <i>It would facilitate 2 human players to play the game.</i><br><br>
-<img src="assets/Double1.jpeg" width="300" height="300" alt="Multi Player Demo1">
-<img src="assets/Double2.jpeg" width="300" height="300" alt="Multi Player Demo2">
+<img src="assets/Double1.jpeg" width="300" height="300" alt="Multi Player Demo1" align="left">
+<img src="assets/Double2.jpeg" width="300" height="300" alt="Multi Player Demo2" align="center">
 
 2. <b>Single Player Mode:</b> <i>One player would play against an AI bot built using the minimax algorithm.</i><br><br>
-<img src="assets/Single1.jpeg" width="300" height="300" alt="Single Player Demo1">
-<img src="assets/Single2.jpeg" width="300" height="300" alt="Single Player Demo2">
+<img src="assets/Single1.jpeg" width="300" height="300" alt="Single Player Demo1" align="left">
+<img src="assets/Single2.jpeg" width="300" height="300" alt="Single Player Demo2" align="center">
 <br><br>
 
 ❖ Possible enhancements would include a proper GUI to the game with appropriate animations, using the graphics.h header-file.
@@ -50,8 +50,8 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 <br>
 
 <h2><b>Team X:</b></h2>
+<p align="center">Team Member</p>
 <table align="center" width="600" border="2">
-<caption align="center">Team Member</caption>
 <tr>
     <td>Name</td>
     <td>Registration No.</td>
@@ -80,7 +80,7 @@ Both players begin with 21 identical pieces, and the first player to achieve a l
 
 <br>
 <p align="center">
-<img src="assets/Teammate.jpg" alt="Team X" width="70%" height="50%">
+<img src="assets/Teammate.jpg" alt="Team X" height="50%">
 </p>
 
-<h3 align="center"><b>Team X</b></h3>
+<p align="center"><b>Team X</b></p>
