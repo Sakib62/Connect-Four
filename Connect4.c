@@ -42,13 +42,13 @@ int main() {
     }
 
 
-    printf("enter name for player1 'O': ");
+    printf("Enter name for player1 'O': ");
     scanf("%s", player1.name);
     player1.symbol='O';
     player2.symbol='X';
 
     if(mode==2){
-        printf("enter name for player2 'X': ");
+        printf("Enter name for player2 'X': ");
         scanf("%s", player2.name);
     }
     else{
